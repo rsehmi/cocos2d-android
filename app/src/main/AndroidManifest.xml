@@ -238,6 +238,4 @@
         </activity>
 
     </application>
-
-<uses-sdk android:minSdkVersion="4"></uses-sdk>
-</manifest> 
+</manifest>
