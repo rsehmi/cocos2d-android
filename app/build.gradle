@@ -18,6 +18,3 @@ android {
     }
 }
 
-dependencies {
-    compile files('libs/cocos2d-android.jar')
-}
